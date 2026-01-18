@@ -1,0 +1,31 @@
+Customer_ID,Customer_Name,Review_Text,Past_Purchases,Customer_Tier,Email
+C001,Rahul Sharma,"The food was cold and the delivery took 2 hours. Very disappointed.",12,Gold,rahul.s@example.com
+C002,Anita Rao,"Amazing experience! The staff was very polite and the ambiance was great.",2,Bronze,anita.rao@example.com
+C003,John Doe,"The app kept crashing when I tried to pay. Fix this immediately!",5,Silver,j.doe@example.com
+C004,Sneha Patel,"I love the product but the packaging was torn when it arrived today.",25,Platinum,spatel@example.com
+C005,Kevin Hart,"Average service, nothing special. Might not come back.",1,Bronze,khart@example.com
+C006,Priya Mani,"Wait time was too long even with a reservation. Unacceptable.",8,Gold,pmani@example.com
+C007,Mark Z,"The interface is clean but I found a bug in the settings menu.",15,Silver,mzuck@example.com
+C008,Suresh Raina,"Best experience ever. Highly recommend to everyone!",30,Platinum,sraina@example.com
+C009,Liam Neeson,"I was promised a refund last week and I am still waiting. Unprofessional.",3,Bronze,liam.n@example.com
+C010,Emma Watson,"The quality of the fabric has gone down. Not worth the premium price.",18,Gold,em.watson@example.com
+C011,Bruce Wayne,"The security on the login page is weak. As a long-time user, I'm worried.",50,Platinum,bwayne@waynecorp.com
+C012,Diana Prince,"Delivery was fast, but the item I received was the wrong color.",7,Silver,diana.p@example.com
+C013,Tony Stark,"Your API documentation is outdated. Spent 3 hours debugging for nothing.",10,Gold,tstark@starkintl.com
+C014,Steve Rogers,"Simple and effective. Does exactly what it says on the box.",4,Bronze,cap@example.com
+C015,Natasha R,"Great customer support! They solved my issue in under 5 minutes.",22,Platinum,nat.romanoff@example.com
+C016,Peter Parker,"The shipping cost is more than the product itself. Ridiculous.",1,Bronze,spidey@example.com
+C017,Barry Allen,"Delivery was so fast I thought it was a mistake! Great job.",9,Silver,ballen@example.com
+C018,Clark Kent,"The subscription renewal happened without a reminder email. Please refund.",14,Gold,ckent@dailyplanet.com
+C019,Wanda M,"The product smells like chemicals. I am allergic and very upset.",6,Bronze,wanda.v@example.com
+C020,Victor Stone,"Excellent integration with other tools. Saves me so much time.",40,Platinum,vstone@example.com
+C021,Arthur Curry,"The waterproof coating failed after one use. Not as advertised.",21,Platinum,acurry@example.com
+C022,Selina Kyle,"The tracking link never updated. I had to call three times to find my package.",11,Gold,skyle@example.com
+C023,Hal Jordan,"Incredible brightness and battery life. Perfect for my night shifts.",13,Silver,hjordan@example.com
+C024,Billy Batson,"The size guide is completely wrong. The shirt I got is way too big.",2,Bronze,bbatson@example.com
+C025,Scott Lang,"Great value for the price, but the instructions were a bit confusing.",9,Silver,slang@example.com
+C026,Hope Van Dyne,"Sophisticated design and high-quality materials. Very impressed.",35,Platinum,hvd@example.com
+C027,Stephen Strange,"The billing department made a duplicate charge. Please rectify this.",19,Gold,sstrange@example.com
+C028,Carol Danvers,"The durability is unmatched. Survived a high-impact drop without a scratch.",45,Platinum,cdanvers@example.com
+C029,TChalla,"Exquisite craftsmanship. A true representation of luxury.",60,Platinum,king@example.com
+C030,Logan W,"The metal finish is already peeling. I expected better durability for the cost.",17,Gold,logan.w@example.com
